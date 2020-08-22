@@ -1,0 +1,94 @@
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\yuz_tanima.exe.config
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\yuz_tanima.exe
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\yuz_tanima.pdb
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\AForge.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\AForge.Imaging.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\AForge.Math.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\AForge.Video.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\AForge.xml
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\AForge.Imaging.xml
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\AForge.Math.xml
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\AForge.Video.xml
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.csprojAssemblyReference.cache
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.Form1.resources
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.Properties.Resources.resources
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.csproj.GenerateResource.cache
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.csproj.CoreCompileInputs.cache
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.csproj.CopyComplete
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.exe
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.pdb
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\Emgu.CV.UI.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\Emgu.CV.World.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\OpenTK.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\OpenTK.GLControl.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\ZedGraph.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\Emgu.CV.UI.xml
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\Emgu.CV.World.xml
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\OpenTK.xml
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\OpenTK.GLControl.xml
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\ZedGraph.xml
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\yuz_tanima\yuz_tanima\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\yuz_tanima.exe.config
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\yuz_tanima.exe
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\yuz_tanima.pdb
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\AForge.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\AForge.Imaging.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\AForge.Math.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\AForge.Video.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\Emgu.CV.UI.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\Emgu.CV.World.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\OpenTK.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\OpenTK.GLControl.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\ZedGraph.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\AForge.xml
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\AForge.Imaging.xml
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\AForge.Math.xml
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\AForge.Video.xml
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\Emgu.CV.UI.xml
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\Emgu.CV.World.xml
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\OpenTK.xml
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\OpenTK.GLControl.xml
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\ZedGraph.xml
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.csprojAssemblyReference.cache
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.Form1.resources
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.Properties.Resources.resources
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.csproj.GenerateResource.cache
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.csproj.CoreCompileInputs.cache
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.csproj.CopyComplete
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.exe
+C:\Users\KELREN\Desktop\!!!!!!!!!!!!!\YAPILMIŞ PROJELER\yuz_tanima\yuz_tanima\obj\Debug\yuz_tanima.pdb
